@@ -3,9 +3,7 @@
 
    I declare this source code to be in the public domain.
 
-   The purpose of this code is to explore a method for avoiding (or
-   minimizing) a race condition when getting terminal attributes with
-   tcgetattr.
+   See readme.txt for the purpose of this code.
  */
 
 #include <stdio.h>
