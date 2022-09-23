@@ -41,3 +41,7 @@ foreground
 done
 $ exit
 exit
+
+As you can see, the process group stopped when it was started in the
+background, proceeding with tcgetattr only when brought into the
+foreground.
